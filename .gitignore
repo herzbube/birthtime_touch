@@ -1,0 +1,5 @@
+# Build products
+build/
+
+# Other files
+.DS_Store
